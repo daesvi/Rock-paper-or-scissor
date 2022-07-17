@@ -64,3 +64,26 @@ h1{
     width: 12vw;
     height: 15vh;
 }
+
+#back {
+    width: 6vw;
+    height: 9vh;
+    transition: all 400ms;
+}
+
+#back:hover{
+    transform: scale(1.10);
+    transition: all 400ms;
+}
+
+#go_game{
+    width: 6vw;
+    height: 7vh;
+    transition: all 400ms;
+}
+
+#go_game:hover{
+    transform: scale(1.10);
+    transition: all 400ms;
+}
+
